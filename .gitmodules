@@ -1,0 +1,3 @@
+[submodule "robolab-deploy"]
+	path = robolab-deploy
+	url = https://bitbucket.org/tudrobolab/robolab-deploy.git
