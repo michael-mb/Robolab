@@ -1,6 +1,6 @@
 # RoboLab
 
-![Robot]("robot.jpg") 
+![Robot image](<robot.jpg>)
 
 This is a solution to the TU-Dresden RoboLab project from the winter semester 18/19. The lab's task is the development of software components controlling a mobile robot which was tasked with exploring varying targets in a graph network.
 
